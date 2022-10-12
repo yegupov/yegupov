@@ -1,16 +1,30 @@
-### Hi there 👋
+# Welcome visitors!
+I am a passionate developer with over 3 years of experience.  
+**Proficient**: JavaScript, Vue.js, jQuery
 
-<!--
-**yegupov/yegupov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me
+My name is Gennady. I am engaged in the creation of sites, admin panels, services and widgets. I like both to develop interfaces, including interactivity, and to work with data arrays. I would like to work on Vue.js projects.
 
-Here are some ideas to get you started:
+**E-mail**: [`make.website.info@gmail.com`](mailto:make.website.info@gmail.com)  
+**My portfolio**: [`yegupov.github.io`](https://yegupov.github.io/)  
+**View CV** (pdf): [`yegupov.github.io`](https://yegupov.github.io/frontend-egupov-cv.pdf)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+**Frontend**
+- HTML5 (PUG, BEM), CSS3 (SASS/SCSS)
+-	JavaScript, Vue.js,  jQuery
+-	REST API
+
+**Workflow**
+-	Terminal
+-	Git
+-	Webpack
+
+**Related Skills**
+-	PHP
+-	CMS: Modx, PrestaShop
+-	Interface design
+
+**Softweare**
+-	Figma, Photoshop, CorelDraw
+-	Microsoft Office
